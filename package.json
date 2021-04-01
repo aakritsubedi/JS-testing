@@ -1,0 +1,29 @@
+{
+  "name": "js-testing",
+  "version": "1.0.0",
+  "description": "Learning testing in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aakritsubedi/JS-testing.git"
+  },
+  "keywords": [
+    "Testing",
+    "JavaScript",
+    "Jest",
+    "Chai",
+    "Mocha"
+  ],
+  "author": "AAkrit Subedi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aakritsubedi/JS-testing/issues"
+  },
+  "homepage": "https://github.com/aakritsubedi/JS-testing#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
